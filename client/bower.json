@@ -1,0 +1,22 @@
+{
+  "name": "2d_diagram_editor",
+  "description": "2d diagram edito",
+  "main": "app.js",
+  "authors": [
+    "jjm"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "https://github.com/murray3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
